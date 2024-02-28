@@ -22,13 +22,9 @@
 ## 🛠️ Languages and tools
 ### Programming languages
 <a href="#"><img src="https://img.icons8.com/fluency/48/null/python.png"/></a>
-<a href="#"><img src="https://img.icons8.com/color/48/null/golang.png"/></a>
 <a href="#"><img src="https://img.icons8.com/fluency/48/null/node-js.png"/></a>
 <a href="#"><img src="https://img.icons8.com/offices/48/null/php-logo.png"/></a>
 <a href="#"><img src="https://img.icons8.com/fluency/48/null/javascript.png"/></a>
-<a href="#"><img src="https://img.icons8.com/fluency/48/null/typescript--v2.png"/></a>
-<a href="#"><img src="https://img.icons8.com/color/48/flutter.png"/></a>
-<a href="#"><img src="https://img.icons8.com/color/48/dart.png"/></a>
 <a href="#"><img src="https://img.icons8.com/color/48/c-sharp-logo.png"/></a>
 
 ### Web development
