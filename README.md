@@ -30,12 +30,7 @@
 ### Web development
 <a href="#"><img src="https://img.icons8.com/fluency/48/null/html-5.png"/></a>
 <a href="#"><img src="https://img.icons8.com/fluency/48/null/css3.png"/></a>
-<a href="#"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/></a>
-<a href="#"><img src="https://img.icons8.com/color/48/vue-js.png"/></a>
-<a href="#"><img src="https://img.icons8.com/doodle/48/svetle.png"/></a>
-<a href="#"><img src="https://img.icons8.com/color/48/null/nginx.png"/></a>
-<a href="#"><img src="https://img.icons8.com/color/48/null/bootstrap.png"/></a>
-<a href="#"><img src="https://img.icons8.com/fluency/48/null/tailwind_css.png"/></a>
+<a href="#"><img src="https://img.icons8.com/fluency/48/null/javascript.png"/></a>
 
 ### Databases
 <a href="https://www.mongodb.com" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png"/></a>
